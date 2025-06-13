@@ -1,0 +1,148 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "ptable >=9999"
+  ],
+  "depends": [
+    "wcwidth",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Martin\\.conda\\pkgs\\prettytable-3.5.0-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/prettytable-3.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/prettytable-3.5.0.dist-info/METADATA",
+    "Lib/site-packages/prettytable-3.5.0.dist-info/RECORD",
+    "Lib/site-packages/prettytable-3.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/prettytable-3.5.0.dist-info/WHEEL",
+    "Lib/site-packages/prettytable-3.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/prettytable-3.5.0.dist-info/licenses/COPYING",
+    "Lib/site-packages/prettytable/__init__.py",
+    "Lib/site-packages/prettytable/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/prettytable/__pycache__/colortable.cpython-310.pyc",
+    "Lib/site-packages/prettytable/__pycache__/prettytable.cpython-310.pyc",
+    "Lib/site-packages/prettytable/colortable.py",
+    "Lib/site-packages/prettytable/prettytable.py",
+    "Lib/site-packages/prettytable/py.typed"
+  ],
+  "fn": "prettytable-3.5.0-py310haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Martin\\.conda\\pkgs\\prettytable-3.5.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "185d86a4e1725bb6eebbc30cc2ad2b93",
+  "name": "prettytable",
+  "package_tarball_full_path": "C:\\Users\\Martin\\.conda\\pkgs\\prettytable-3.5.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bd183afad5375ff9b029efd54e897a0b2c091f822c4deabefc8ed07b0888ae00",
+        "sha256_in_prefix": "bd183afad5375ff9b029efd54e897a0b2c091f822c4deabefc8ed07b0888ae00",
+        "size_in_bytes": 24391
+      },
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "045b6b9c9145547c84daa3961b8a834363a6dbac77280f1a6ae60bb875b77439",
+        "sha256_in_prefix": "045b6b9c9145547c84daa3961b8a834363a6dbac77280f1a6ae60bb875b77439",
+        "size_in_bytes": 1091
+      },
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "dc34a64b2604d520c444edbeac8dea51b315a2f06cefefa081cee6b9b39e9ac7",
+        "sha256_in_prefix": "dc34a64b2604d520c444edbeac8dea51b315a2f06cefefa081cee6b9b39e9ac7",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2823399d02ad83fd56a1330e09843cd078df213c36d76fae5fb9d11ef634594d",
+        "sha256_in_prefix": "2823399d02ad83fd56a1330e09843cd078df213c36d76fae5fb9d11ef634594d",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/prettytable-3.5.0.dist-info/licenses/COPYING",
+        "path_type": "hardlink",
+        "sha256": "0c8adcc204c8af6cdfdf7887dfd1f99c29901f6c1d505a78bba96efa4fb2cb05",
+        "sha256_in_prefix": "0c8adcc204c8af6cdfdf7887dfd1f99c29901f6c1d505a78bba96efa4fb2cb05",
+        "size_in_bytes": 1612
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4538ecbfbe9de88e466ae5945a9a756a6daafe3b49f50b9d31f52f127b3416f6",
+        "sha256_in_prefix": "4538ecbfbe9de88e466ae5945a9a756a6daafe3b49f50b9d31f52f127b3416f6",
+        "size_in_bytes": 904
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff0b9c449f2471ad4d58b5aeb3b474f026d9e49f9f54eca266369975665e7ea9",
+        "sha256_in_prefix": "ff0b9c449f2471ad4d58b5aeb3b474f026d9e49f9f54eca266369975665e7ea9",
+        "size_in_bytes": 872
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/__pycache__/colortable.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b98abfd66fa716b585d5453412cc92e8fdbba00baba576f6bfca78ba03e61b50",
+        "sha256_in_prefix": "b98abfd66fa716b585d5453412cc92e8fdbba00baba576f6bfca78ba03e61b50",
+        "size_in_bytes": 2955
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/__pycache__/prettytable.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d4070b1a244537df69b980874af6d1b67a73ce2540a1fae13e3c19614b2d6a0",
+        "sha256_in_prefix": "7d4070b1a244537df69b980874af6d1b67a73ce2540a1fae13e3c19614b2d6a0",
+        "size_in_bytes": 66499
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/colortable.py",
+        "path_type": "hardlink",
+        "sha256": "1df9e93aef1f8f805d15ec7fec36e6c6da973bc323aed6ea5da9c51c2669f94e",
+        "sha256_in_prefix": "1df9e93aef1f8f805d15ec7fec36e6c6da973bc323aed6ea5da9c51c2669f94e",
+        "size_in_bytes": 2477
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/prettytable.py",
+        "path_type": "hardlink",
+        "sha256": "9bf1fca2c06f4e5888f9aad8dbdb241bc3ee1a025a8cbf7502118890053caf85",
+        "sha256_in_prefix": "9bf1fca2c06f4e5888f9aad8dbdb241bc3ee1a025a8cbf7502118890053caf85",
+        "size_in_bytes": 87770
+      },
+      {
+        "_path": "Lib/site-packages/prettytable/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3d9bd73a293e72a06f34a3c279dcae66d118e6025f6531e5b695fe035f72e54c",
+  "size": 50830,
+  "subdir": "win-64",
+  "timestamp": 1671655816000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/prettytable-3.5.0-py310haa95532_0.conda",
+  "version": "3.5.0"
+}
